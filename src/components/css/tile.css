@@ -1,0 +1,33 @@
+.todotile{
+    text-align:left;
+    margin:1em;
+    width:10em;
+    height:11em;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.tileText{
+    padding-top: 1.2rem;
+    padding-left:.5rem;
+    margin-bottom: 1em;;
+}
+.todooperation{
+    float:right;
+}
+i{
+    font-size:.7em;
+    padding:.4rem;
+    clear: both;
+}
+p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.yearOfRel{
+    font-style: italic;font-size:.6em;
+    margin-left:.8em;
+}
+hr{
+    margin:.5em;
+}
